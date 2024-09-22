@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here!](https://your-solution-url.com)
+- Solution URL: [Click here!](https://chirag-bishnoi.github.io/ping-coming-soon-page/)
 
 
 ### Built with
