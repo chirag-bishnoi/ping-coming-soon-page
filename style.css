@@ -204,4 +204,8 @@ input[type = "email"]{
         top: 0;
         left: 0;
     }
+    .img-container {
+        width: 90%;
+        margin-inline: auto;
+    }
 }
